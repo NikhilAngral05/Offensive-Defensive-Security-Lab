@@ -1,12 +1,13 @@
 # Offensive and Defensive Security Lab
 
-**Contributor:** Nikhil    
+**Contributor:** 4316 sushil39  
 **Course Code:** COM-502  
 **Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
 **Institute:** MIET (Autonomous), Jammu  
+**GitHub Repository:** Offensive-and-defensive-security-COM-502-
 
-This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by Nikhil
+This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by **4316 sushil39**.
 
 ## Experiments
 
@@ -14,7 +15,7 @@ This repository contains the laboratory work for **COM-502: Offensive and Defens
 2. [Experiment 2: Metasploit](Exp-2/README.md)
 3. [Experiment 3: Wireshark Traffic Analysis](Exp-3/README.md)
 4. [Experiment 4: Firewall & IDS Setup](Exp-4/README.md)
-5. Experiment 5: Sniffing & Session Hijacking
+5. [Experiment 5: ARP Spoofing and HTTP Traffic Analysis](exp-5/README.md)
 6. Experiment 6: OWASP ZAP
 7. Experiment 7: OSINT Recon
 8. Experiment 8: MITRE ATT&CK Mapping
