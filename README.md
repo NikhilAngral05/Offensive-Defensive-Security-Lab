@@ -16,8 +16,8 @@ This repository contains the laboratory work for **COM-502: Offensive and Defens
 3. [Experiment 3: Wireshark Traffic Analysis](Exp-3/README.md)
 4. [Experiment 4: Firewall & IDS Setup](Exp-4/README.md)
 5. [Experiment 5: ARP Spoofing and HTTP Traffic Analysis](exp-5/README.md)
-6. Experiment 6: OWASP ZAP
-7. Experiment 7: OSINT Recon
+6. [Experiment 6: OWASP ZAP](exp-6/README.md)
+7. [Experiment 7: OSINT Recon](exp-7/README.md)
 8. Experiment 8: MITRE ATT&CK Mapping
 9. Experiment 9: Hydra Password Guessing
 10. Experiment 10: Gophish Phishing Simulation
