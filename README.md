@@ -18,5 +18,5 @@
 6. [Experiment 6: OWASP ZAP](exp-6/README.md)
 7. [Experiment 7: OSINT Recon](exp-7/README.md)
 8. [Experiment 8: MITRE ATT&CK Mapping](exp-8/README.md)
-9. Experiment 9: Hydra Password Guessing
+9. [Experiment 9: Hydra Password Guessing](exp-9/README.md)
 10. Experiment 10: Gophish Phishing Simulation
